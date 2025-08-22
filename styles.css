@@ -503,7 +503,7 @@ img{
 
 .photo-card .photo {
   height: 320px;
-  background: url("asset/experience.png") center/cover no-repeat;
+  background: url("assets/experience.png") center/cover no-repeat;
 }
 
 .stat {
